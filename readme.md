@@ -1,4 +1,4 @@
-loaded packages are at below with run order.
+loaded packages are at below in running order.
 install global npm modules one by one. For others: simply => npm install
 and run "npm link webpack --save" after "npm install"
 
