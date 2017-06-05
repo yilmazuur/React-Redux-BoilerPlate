@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+a, a:visited { 
+	outline: none ;
+}
+img {
+	border: none;
+}
+.table-centered {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    /*background-image: url(../images/login/bg.jpg);*/
+    background-color: #ccc;
+    background-size: cover;
+    background-position: center;
+}
+.tableCell-centered {
+    display: table-cell;
+    vertical-align: middle;
+}
+.col-centered {
+    float: none;
+    margin: 0 auto;
+
+}
+.loginBox {
+    border-radius: 6px;
+    background-image: url(../images/login/loginBoxBg.png);
+    background-repeat: repeat;
+    overflow: hidden;
+    color: white;
+}
