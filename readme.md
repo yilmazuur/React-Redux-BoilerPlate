@@ -1,5 +1,5 @@
-loaded packages are at below with run order.
-install global npm modules one by one. For others: simply => npm install
+loaded packages are at below with run order. <br />
+install global npm modules one by one. For others: simply => npm install <br />
 and run "npm link webpack --save" after "npm install"
 
 npm install babel --save
